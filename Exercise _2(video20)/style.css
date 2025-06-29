@@ -15,7 +15,7 @@ p:last-child{
 }
 p{
     background-color: blue;
-    /* color: white; */
+    color: white;
 }
 *{
     text-align: center;
