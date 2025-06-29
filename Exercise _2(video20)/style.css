@@ -1,0 +1,24 @@
+p:first-child {
+  background-color: yellow;
+  color: red;
+}
+p:last-child{
+    border: 2px solid black;
+    text-align: center;
+    background-color: rgb(247, 174, 246);
+    white-space: pre-line;
+    color: black;
+    box-shadow: 2px 5px 8px rgba(255, 0, 0, 0.3);
+}
+p{
+    background-color: blue;
+    color: white;
+}
+*{
+    text-align: center;
+
+}
+
+p:last-child:hover{
+    color: rgb(68, 0, 255);
+}

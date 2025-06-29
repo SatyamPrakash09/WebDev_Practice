@@ -1,0 +1,35 @@
+#video1{
+    height:550px;
+    max-width:100%;
+    width:60%;
+    alligned:center;
+    aspect-ratio: 16/9;
+    allign-items:center;
+    margin:auto;
+}
+#video2{
+    height:550;
+    max-width:100%;
+    width:60%;
+    alligned:center;
+    aspect-ratio: 16/9;
+    allign-items:center;
+    margin:auto;
+}
+#audio{
+    height:auto;
+    max-width:100%;
+    width:90%;
+    alligned:center;
+    allign-items:center;
+    margin:auto;
+}
+#harry
+{
+    height: 650px;
+    max-width:100%;
+    width:95%;
+    alligned:center;
+    allign-items:center;
+    margin:auto;
+}
