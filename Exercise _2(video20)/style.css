@@ -5,9 +5,12 @@ p:first-child {
 p:last-child{
     border: 2px solid black;
     text-align: center;
+    background-image: url(image.png);
     background-color: rgb(247, 174, 246);
+    width:100vw;
     white-space: pre-line;
-    color: black;
+    font-weight:900;
+    color: rgb(225, 255, 0);
     box-shadow: 2px 5px 8px rgba(255, 0, 0, 0.3);
 }
 p{
@@ -20,5 +23,5 @@ p{
 }
 
 p:last-child:hover{
-    color: rgb(68, 0, 255);
+    color: rgb(255, 0, 0);
 }
