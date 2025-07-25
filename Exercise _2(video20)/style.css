@@ -12,6 +12,7 @@ p:last-child{
     font-weight:900;
     color: rgb(225, 255, 0);
     box-shadow: 2px 5px 8px rgba(255, 0, 0, 0.3);
+    margin: auto;
 }
 p{
     background-color: blue;
